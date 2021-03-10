@@ -1,0 +1,1168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"e",
+				"emphasis"
+			],
+			[
+				"name",
+				"nameTextStyle"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"char",
+				"chartmap"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"op",
+				"option6"
+			],
+			[
+				"cha",
+				"chart1"
+			],
+			[
+				"chart",
+				"chart3"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"st",
+				"styleJson"
+			],
+			[
+				"map",
+				"mapStyle"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"text",
+				"textStyle"
+			],
+			[
+				"item",
+				"itemStyle"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"rs",
+				"result"
+			],
+			[
+				"last",
+				"lasttext"
+			],
+			[
+				"area",
+				"areaName"
+			],
+			[
+				"pa",
+				"paramList"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"init",
+				"initChart"
+			],
+			[
+				"chin",
+				"chinaMap"
+			],
+			[
+				"ini",
+				"initOption"
+			],
+			[
+				"se",
+				"sellervalue"
+			],
+			[
+				"seller",
+				"sellername"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"data",
+				"data_file"
+			],
+			[
+				"train",
+				"train_opt"
+			],
+			[
+				"log",
+				"log_freq"
+			],
+			[
+				"ne",
+				"next_b_labels"
+			],
+			[
+				"tri",
+				"train_opt"
+			],
+			[
+				"l",
+				"lstm_units"
+			],
+			[
+				"n",
+				"num_class"
+			],
+			[
+				"emb",
+				"emb_size"
+			],
+			[
+				"ls",
+				"lstm_units"
+			],
+			[
+				"nex",
+				"next_b_labels"
+			],
+			[
+				"is",
+				"is_end"
+			],
+			[
+				"news_",
+				"news_time"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"top",
+				"top_urls"
+			],
+			[
+				"parse",
+				"parse_content"
+			],
+			[
+				"content",
+				"content_url"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"ge",
+				"generate_urls"
+			],
+			[
+				"num",
+				"num_classes"
+			],
+			[
+				"up",
+				"upsample"
+			],
+			[
+				"max",
+				"maxpool"
+			],
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"val",
+				"vallabel"
+			],
+			[
+				"roo",
+				"rootpath"
+			],
+			[
+				"file",
+				"file_list"
+			],
+			[
+				"inp",
+				"inputs"
+			],
+			[
+				"in",
+				"indices"
+			],
+			[
+				"tra",
+				"transforms"
+			],
+			[
+				"par",
+				"params_to_update"
+			],
+			[
+				"be",
+				"best_model_wts"
+			],
+			[
+				"ep",
+				"epoch_acc"
+			],
+			[
+				"ru",
+				"running_corrects"
+			],
+			[
+				"run",
+				"running_corrects"
+			],
+			[
+				"bo",
+				"boxes"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"b",
+				"boxes"
+			],
+			[
+				"img",
+				"img_path"
+			],
+			[
+				"best",
+				"best_model_wts"
+			],
+			[
+				"epoch",
+				"epoch_acc"
+			],
+			[
+				"runn",
+				"running_corrects"
+			],
+			[
+				"running",
+				"running_loss"
+			],
+			[
+				"model",
+				"model_ft"
+			],
+			[
+				"tor",
+				"torchvision"
+			],
+			[
+				"datalo",
+				"dataloaders"
+			],
+			[
+				"normalization",
+				"normalization_std"
+			],
+			[
+				"nor",
+				"normalization_mean"
+			],
+			[
+				"target",
+				"target_feature"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"all",
+				"all_reduce"
+			],
+			[
+				"tensor",
+				"tensor_list"
+			],
+			[
+				"ev",
+				"evaluator_time"
+			],
+			[
+				"coco",
+				"coco_evaluator"
+			],
+			[
+				"_",
+				"_get_iou_types"
+			],
+			[
+				"loss_dict",
+				"loss_dict_reduced"
+			],
+			[
+				"losses",
+				"losses_reduced"
+			],
+			[
+				"loss",
+				"loss_dict_reduced"
+			],
+			[
+				"war",
+				"warmup_factor"
+			],
+			[
+				"chrome",
+				"chrome_opts"
+			],
+			[
+				"ke",
+				"key_hex"
+			],
+			[
+				"conte",
+				"content_w"
+			],
+			[
+				"zh",
+				"zh-cn"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"ec",
+				"encrypt"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"md",
+				"md5Param"
+			],
+			[
+				"ser",
+				"service_method"
+			],
+			[
+				"servi",
+				"service_method"
+			],
+			[
+				"pla",
+				"platform_channel"
+			],
+			[
+				"pl",
+				"platform_source"
+			],
+			[
+				"o",
+				"o_author_id"
+			],
+			[
+				"serive",
+				"service_name"
+			],
+			[
+				"plo",
+				"platform_channel"
+			],
+			[
+				"time",
+				"time_elapsed"
+			],
+			[
+				"epoch_",
+				"epoch_acc"
+			],
+			[
+				"datas",
+				"dataset_sizes"
+			],
+			[
+				"opti",
+				"optimizer_ft"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"split",
+				"split_num"
+			],
+			[
+				"p",
+				"ping"
+			],
+			[
+				"ws",
+				"wsUrl"
+			],
+			[
+				"web",
+				"websocket"
+			],
+			[
+				"timeout",
+				"timeoutObj"
+			],
+			[
+				"lo",
+				"lockReconnect"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"ch",
+				"charcodeAt"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"as",
+				"asyncio"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1402,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 10130,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSFTP\n----\n\n  Thanks for installing SFTP! Below are some quick notes to get you started with\n  the plugin. Please see https://codexns.io/sftp for the full documentation.\n\n\n  There are two major modes of operation:\n  1. Mapping a local folder to a remote folder\n  2. Working off of a server\n\n\n  Mapping a Local Folder to a Remote Folder\n  ----\n\n  To map a local folder to a remote folder, right-click on it in the side bar\n  and select the SFTP/SFTP > Map to Remote... You will enter your connection\n  parameters and a new file will be created named sftp-config.json.\n\n  Once this file has been saved, all files in that folder and all subfolders\n  will have various operations available via the side bar context menu, editor\n  context menu and command palette.\n\n\n  Working off of a Server\n  ----\n\n  To work off of a server, use the File menu and select SFTP/FTP > Setup Server...\n  You will enter your connection parameters and options then save the file with\n  the name you want to give the connection.\n\n  Once the server config is saved, you will be automatically connected to the\n  server and you can browse and perform actions via the quick panel.\n\n  Unfortunely due to limitations of the Sublime Text API, it is not possible\n  to present the remote filesystem in the side bar. There are, however, key\n  bindings for connecting to servers to help reduce the amount of time remote\n  file operations take.\n\n\n  Support\n  ----\n\n  To learn more about the features and settings, please visit\n  https://codexns.io/sftp.\n\n  If you are having trouble, please visit\n  https://codexns.io/products/sftp_for_sublime/support. The support page includes\n  instructions for capturing a debug log that will be useful if you believe\n  you are experiencing a bug.",
+			"settings":
+			{
+				"buffer_size": 1796,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/my",
+			"settings":
+			{
+				"buffer_size": 905,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/folders/z_/222_19s97fb__2jpblv7s7wh0000gn/T/sublime-sftp-browse-1614493064/my/opt/hive/hive-2.3/conf/hive-site.xml",
+			"settings":
+			{
+				"buffer_size": 257834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "baidumap.js",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from flask import Flask \n\napp = Flask(__name__)\n\n@app.route('api')\ndef getData():\n    \n\n",
+			"file": "webdev.py",
+			"file_size": 0,
+			"file_write_time": 132581999511722299,
+			"settings":
+			{
+				"buffer_size": 88,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layout.css",
+			"settings":
+			{
+				"buffer_size": 2128,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"A",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: PostCSS",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"help",
+			"exit",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wyaming/project/frontend/layout"
+	],
+	"file_history":
+	[
+		"/var/folders/z_/222_19s97fb__2jpblv7s7wh0000gn/T/sublime-sftp-browse-1614442725/my/opt/hive/hive-2.3/conf/hive-site.xml",
+		"/Users/wyaming/project/frontend/layout/baidumap.js",
+		"/Users/wyaming/project/frontend/layout/mapstyle.js",
+		"/Users/wyaming/project/frontend/layout/layout.sublime-project",
+		"/Users/wyaming/project/frontend/layout/mapstyle.json",
+		"/Users/wyaming/project/echartdemo/vision/vision.sublime-project",
+		"/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/User/vue.sublime-snippet",
+		"/Users/wyaming/project/echartdemo/vision/src/router/index.js",
+		"/Users/wyaming/project/echartdemo/vision/src/main.js",
+		"/Users/wyaming/project/echartdemo/vision/src/App.vue",
+		"/Users/wyaming/project/echartdemo/vision/public/index.html",
+		"/Users/wyaming/project/echartdemo/vision/src/views/MapPage.vue",
+		"/Users/wyaming/project/echartdemo/vision/src/assets/css/global.less",
+		"/Users/wyaming/project/echartdemo/vision/src/views/sellerpage.vue",
+		"/Users/wyaming/project/echartdemo/vision/src/components/seller.vue",
+		"/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/User/Localization.sublime-settings",
+		"/Users/wyaming/project/echartdemo/vision/package.json",
+		"/Users/wyaming/project/echartdemo/vision/vue.config.js",
+		"/Users/wyaming/project/frontend/vuedemo/src/main.js",
+		"/Users/wyaming/project/frontend/demo/package.json",
+		"/Users/wyaming/project/frontend/demo/dist/styles.css",
+		"/Users/wyaming/project/frontend/demo/package-lock.json",
+		"/Users/wyaming/project/torchlearn/ifeng/clawer.py",
+		"/Users/wyaming/project/frontend/demo/app/styles/style.less",
+		"/Users/wyaming/project/frontend/demo/webpack.config.js",
+		"/Users/wyaming/project/frontend/demo/app/index.html",
+		"/Users/wyaming/project/frontend/demo/src/index.js",
+		"/Users/wyaming/project/torchlearn/lstm_tf.py",
+		"/Users/wyaming/project/frontend/demo/app/scripts/main.js",
+		"/Users/wyaming/Downloads/sogou/news.sohunews.010806.txt",
+		"/Users/wyaming/Downloads/chromedownload/bert/create_pretraining_data.sh",
+		"/Users/wyaming/project/torchlearn/masklearn/utils.py",
+		"/Users/wyaming/project/torchlearn/masklearn/transforms.py",
+		"/Users/wyaming/project/torchlearn/masklearn/coco_eval.py",
+		"/Users/wyaming/project/torchlearn/masklearn/coco_utils.py",
+		"/Users/wyaming/project/torchlearn/ob/train.py",
+		"/Users/wyaming/project/torchlearn/迁移学习/train.py",
+		"/Users/wyaming/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/a43c0a4b20f4d2ca21c12fcb8125f290/Message/MessageTemp/130a216e7761413d043310d92ee72e0b/File/paqu视频.py",
+		"/Users/wyaming/project/torchlearn/风格迁移/train.py",
+		"/Users/wyaming/project/torchlearn/masklearn/coco.eval.py",
+		"/Users/wyaming/project/jslearn/node_modules/_jsencrypt@3.0.0-rc.1@jsencrypt/bin/jsencrypt.js",
+		"/Users/wyaming/project/jslearn/geetest/getimg.py",
+		"/Users/wyaming/project/jslearn/juliang.js",
+		"/Users/wyaming/project/jslearn/juliang2.js",
+		"/Users/wyaming/project/jslearn/juliang.py",
+		"/Users/wyaming/project/jslearn/zsxq.js",
+		"/Users/wyaming/project/jslearn/zhipin/77d10f6c.js",
+		"/Users/wyaming/Downloads/chromedownload/bj.py",
+		"/Users/wyaming/Desktop/ruishu.js",
+		"/Users/wyaming/Desktop/t.html",
+		"/Users/wyaming/project/pack/hello/.babelrc",
+		"/Users/wyaming/Desktop/jobs.html",
+		"/Users/wyaming/Desktop/cao.js",
+		"/Users/wyaming/Desktop/tt1.js",
+		"/Users/wyaming/Desktop/email/src/mailtrain.html",
+		"/Users/wyaming/Downloads/chromedownload/job_data_analysis-3/lagou_data_analysis/templates/index.html",
+		"/Users/wyaming/Downloads/chromedownload/job_data_analysis-3/lagou_data_analysis/static/js/js.js",
+		"/Users/wyaming/Desktop/city.csv",
+		"/Users/wyaming/project/jobs/lagou/src/components/conbox.vue",
+		"/Users/wyaming/project/jobs/shuju/src/App.vue",
+		"/Users/wyaming/project/jobs/shuju/src/main.js",
+		"/Users/wyaming/Library/Application Support/abnerworks.Typora/themes/github.css",
+		"/Users/wyaming/Library/Application Support/picgo/data.json",
+		"/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/wyaming/Desktop/ydrfm.py",
+		"/Users/wyaming/myscrapy/moviedown/moviedown/items.py",
+		"/Users/wyaming/Desktop/user-dictionary.txt",
+		"/Users/wyaming/.ssh/id_rsa.pub",
+		"/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hiveserver2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 35.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1958,
+								1958
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 664.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1796,
+								1796
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 781.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/wyaming/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/my",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"sftp_new_server": null,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/var/folders/z_/222_19s97fb__2jpblv7s7wh0000gn/T/sublime-sftp-browse-1614493064/my/opt/hive/hive-2.3/conf/hive-site.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175481,
+								175492
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_remote": true,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"tmp_dir": "/var/folders/z_/222_19s97fb__2jpblv7s7wh0000gn/T/sublime-sftp-browse-1614493064/my/",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 70555.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "baidumap.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "webdev.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "layout.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 109.0
+	},
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "layout.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

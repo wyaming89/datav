@@ -1,0 +1,166 @@
+@font-face {
+  font-family:"element-icons";
+  src: url("a_lcdnova.woff.ttf") format("ttf");
+  font-weight:400;
+  font-display:"auto";
+  font-style:normal
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(#005864, #00AA97);
+}
+
+.main {
+  height: 100%;
+}
+
+.upside {
+  display: flex;
+  height: 62%;
+  width: 100%;
+  margin: 0;
+}
+
+.footer {
+  height: 33%;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.left {
+  width: 73%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.right {
+  width: 23%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.left>div{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.right > div {
+  margin-top: 20px;
+}
+
+.text{
+  display: block;
+  padding: 0;
+  margin: 0 auto;
+  color: #00AA97;
+}
+
+#chart1{
+  display: flex;
+  justify-content: ;
+  align-items: center;
+}
+
+.text > p:first-child {
+  color: #00EA8B;
+  font-size: 2rem;
+  display: block;
+  font-family: 'element-icons';
+
+}
+
+
+
+#chart5 > canvas {
+  border-radius: 0 0 0 25px;
+}
+
+.item {
+  border: 0.3px solid #BAFFFA;
+  min-height: 140px;
+  
+  /*margin-top: 35px;*/
+  flex: 200px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #005864;
+  background-image: linear-gradient(#005864, #00AA97);
+}
+
+#chart3 {
+  width: 60%;
+  min-height: 250px;
+  border-radius: 0 25px 25px 0;
+  position: relative;
+}
+
+.ec-extension-bmap {
+   border-radius: 0 25px 25px 0;
+}
+
+#chart3 > canvas {
+  border-radius: 0 25px 25px 0;
+}
+
+
+.lastitem {
+  flex: 800px;
+  display: flex;
+  align-items: right;
+  border-radius: 25px 25px 25px 25px;
+}
+
+
+
+.itemleft {
+  border-radius: 25px 0 0 25px;
+  width: 20%；;
+  min-height: 100%;
+  border: 0;
+  box-shadow: 0;
+  min-height: 140px;
+  
+  /*margin-top: 35px;*/
+  flex: 200px;
+}
+
+.rightitem {
+  height: 97%;
+}
+
+
+@meta screen and (min-width: 320px){
+  .footitem {
+  height: 93%;
+  }
+}
+.footitem {
+  height: 86%;
+}
+
+.footitem > div > canvas {
+  border-radius: 0 0 0 25px;
+}
+
+.anchorBL {
+  display: none;
+}
+
+
